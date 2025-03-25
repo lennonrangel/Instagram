@@ -63,18 +63,47 @@ button {
     cursor: pointer;
 }
 
+.divisoria {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    color: #8e8e8e;
+    font-size: 13px;
+    font-weight: bold;
+}
+  
+.divisoria::before,
+.divisoria::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #dbdbdb;
+    margin: 0 10px;
+}
+
+.facebook{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.facebook-logo{
+    height: 20px;
+    padding-right: 7px;
+}
+
 .login-facebook{
-    color: #385185;
+    color: #0095f6;
     font-size: 14px;
     font-weight: bold;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
     cursor: pointer;
 }
 
 .esqueceu-senha{
-    color: #385185;
+    color: #0095f6;
     font-size: 12px;
     text-align: center;
     cursor: pointer;
@@ -116,4 +145,5 @@ button {
 
 .logo-app {
     width: 150px;
+    cursor: pointer;
 }
