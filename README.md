@@ -13,7 +13,7 @@ Agora, o projeto está quase finalizado, faltando apenas alguns ajustes finais, 
 - **JavaScript**: Para as interações, utilizei JavaScript para criar a funcionalidade de carrossel automático, permitindo que as imagens mudem automaticamente a cada 4 segundos.
 
 <div align="center">
-  <br><img src="https://github.com/user-attachments/assets/5db0beb8-dc9d-44c5-8152-3bf2cad2dd6a" aling=center>
+  <br><img src="https://github.com/user-attachments/assets/1f50d304-443b-483f-8dd9-ab495e3daa3f" aling=center>
 </div><br>
 
 **🠖 Contribuições:**
